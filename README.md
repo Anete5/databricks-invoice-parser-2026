@@ -7,14 +7,14 @@ The notebook uses **Databricks AI functions** that are **only available inside a
 Databricks workspace**.
 
 ## Main notebook
-- `pdf_invoice_parser_15012026.ipynb`
+- `pdf_invoice_parser_18012026.ipynb`
 
 All implementation details, explanations, and examples are documented directly
 inside the notebook.
 
 ## How to use
 1. Clone or import this repository into a Databricks workspace
-2. Open `pdf_invoice_parser_15012026.ipynb` from **Databricks Repos**
+2. Open `pdf_invoice_parser_18012026.ipynb` from **Databricks Repos**
 3. Follow the instructions and markdown cells inside the notebook
 
 ## Requirements
